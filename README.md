@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @obinna-Muonanu
-- 👀 I’m interested in Artificial intelligence...
-- 🌱 I’m currently learning Python..
-- 💞️ I’m looking to collaborate on Projects that can build my skills on Python and deepen my knowledge on AI..
-- 📫 How to reach me ...
+- 👋 Hi, My name is Obinna-Muonanu
+- 👷🧑‍💻 I am a recent chemical engineering graduate and ML Engineer 
+- 🌱🥽🧪 With interest in applying AI and ML in chemical engineering processes
+- 💞️ Ha! I'm not limited to chemical engineering though😎
+
 
 <!---
 obinna-Muonanu/obinna-Muonanu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
