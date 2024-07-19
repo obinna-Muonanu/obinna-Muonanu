@@ -1,7 +1,7 @@
 - 👋 Hi, My name is Obinna-Muonanu
 - 👷🧑‍💻 I am a recent chemical engineering graduate and ML Engineer 
 - 🌱🥽🧪 With interest in applying AI and ML in chemical engineering processes
-- 💞️ Ha! I'm not limited to chemical engineering though😎
+-  😎Ha! I'm not limited to chemical engineering though😎
 
 
 <!---
